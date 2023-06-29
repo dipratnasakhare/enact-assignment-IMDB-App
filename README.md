@@ -1,23 +1,25 @@
 # enact-assignment-IMDB-App
-this is assignment of enact company in this assignment we have to make clone of imdb app
+this is the assignment of enact company in this assignment we have to make a clone of imdb app
 
-for front end i am using react
-for styiling i am using chakra ui
+for the front end, I am using react
+for styling, i am using chakra ui
 
-## some points
+deploy link https://imdb-app-mu.vercel.app/
+
+## Some points
 
 for slider images, I have created my data 
 because in API images are not there
 
-for state management and Api call i am using redux thunk
+for state management and API call, I am using Redux thunk
 
-for touch slider i am using chakra ui framer- motion
+for the touch slider, I am using chakra ui framer- motion
 
-for search and filtering i am using filter and includes built in functions
+for search and filtering, I am using a filter and includes built-in functions
 
-in navbar i added navlink by this navbar glow when there are route is come   
+in the navbar, I added a nav link by this navbar glow when there are routes come   
 
-api for imdb data https://mocki.io/v1/a41f3039-4c21-42bb-a886-d9a342a02ae9
+API for imdb data https://mocki.io/v1/a41f3039-4c21-42bb-a886-d9a342a02ae9
 
 # Getting Started with Create React App
 
@@ -29,13 +31,13 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### `npm test
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
